@@ -9,7 +9,7 @@ const Navbar = () => {
       <div className="container mx-auto flex justify-between items-center">
         <Link to="/" className="text-white text-xl font-bold flex items-center">
           <i className="bi bi-rocket-takeoff-fill mr-2 text-space-accent"></i>
-          Space Explorer
+          MacApp Solar
         </Link>
         
         {/* Mobile menu button */}
